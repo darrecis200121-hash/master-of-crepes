@@ -1,0 +1,7 @@
+{
+  "name": "Crepe Masters - Official Website",
+  "description": "The official online home of Crepe Masters. Explore Chef Karla's signature ginger-clove crepes, track the truck in real-time, and discover our artisanal menu.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
